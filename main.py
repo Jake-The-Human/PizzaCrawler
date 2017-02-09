@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-def pizza_spider(max_pages, town = 'Lexington', state = 'MA'):
+def pizza_spider(max_pages, town, state):
     page = 1
     while page <= max_pages:
         if page is 1:
