@@ -1,3 +1,13 @@
+    ___
+   |  _ \(_)__________ _
+   | |_) | |_  /_  / _` |
+   |  __/| |/ / / / (_| |
+   |_|_  |_/___/___\__,_|  _
+  / ___|_ __ __ ___      _| | ___ _ __
+ | |   | '__/ _` \ \ /\ / / |/ _ \ '__|
+ | |___| | | (_| |\ V  V /| |  __/ |
+  \____|_|  \__,_| \_/\_/ |_|\___|_|
+
 this is a modified webcrawer i made after watching the newBoston python tutorials on a webcrwaler. I call this one the pizza crawler.
 you give it the number of pages you want it to search, town, and state you want it to search. Note: state needs to be
 2 letters long both being caps. and the town needs to be capitalized. the web crawler uses Yellow Pages to find url.
