@@ -57,6 +57,6 @@ print(r'''
 print("\nWelcome")
 town = input("What town/city are you looking for pizza in?\n->")
 state = input("What state are you in?\n->")
-page_str = input("How many page do you want to search?\n->")
+page_str = input("How many pages do you want to search?\n->")
 page = int(page_str)
 pizza_spider(page, town, state)
