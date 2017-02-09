@@ -1,6 +1,6 @@
-this is a modified webcrawer i made after watch the newBoston python tutorial on webcrwaler. I call it the pizza crawler.
+this is a modified webcrawer i made after watching the newBoston python tutorials on a webcrwaler. I call this one the pizza crawler.
 you give it the number of pages you want it to search, town, and state you want it to search. Note: state needs to be
-2 letters long both being caps. and the town needs to be capitalized. the web crawler uses yellow pages to find url.
+2 letters long both being caps. and the town needs to be capitalized. the web crawler uses Yellow Pages to find url.
 
 also got the crazy cool ascii art from this generator:
  http://patorjk.com/software/taag/#p=display&f=Isometric3&t=%20%20Pizza%0ACrawler
