@@ -17,5 +17,4 @@ also got the crazy cool ascii art from this generator:
 
  things i want to do
  - display rating
- - maybe make a map with a key being the name of the play and a vector of the info
  - my be store info in a file so peeps can ask search the file so it could work offline
