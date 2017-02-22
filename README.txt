@@ -8,7 +8,7 @@
  | |___| | | (_| |\ V  V /| |  __/ |
   \____|_|  \__,_| \_/\_/ |_|\___|_|
 
-this is a modified webcrawer i made after watching the newBoston python tutorials on a webcrwalers. I call this one the pizza crawler.
+this is a modified webcrawer i made after watching the newBoston python tutorials on a webcrawlers. I call this one the pizza crawler.
 you give it the number of pages you want it to search, a town, and the state you want it to search. Note: state needs to be
 2 letters long both being caps. the web crawler uses Yellow Pages to find url.
 
