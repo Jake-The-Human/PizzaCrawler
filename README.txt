@@ -18,3 +18,5 @@ also got the crazy cool ascii art from this generator:
  things i want to do
  - display rating
  - my be store info in a file so peeps can ask search the file so it could work offline
+
+written by jake adamson
